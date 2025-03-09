@@ -1,0 +1,30 @@
+{
+    "team_number": 13,
+    "team_name": "Random Forest Rangers",
+    "team_members": [
+        {
+            "name": "Sivan Syed",
+            "discord_username": "igneous_",
+            "eid": "szs272",
+            "email": "sivan.syed@utexas.edu"
+        },
+        {
+            "name": "Sydney Lee",
+            "discord_username": "sydneeleeatx",
+            "eid": "sl55792",
+            "email": "sl55792@utexas.edu"
+        },
+        {
+            "name": "Vedant Joshi",
+            "discord_username": "v3dant.",
+            "eid": "vsj269",
+            "email": "vedant@utexas.edu"
+        },
+        {
+            "name": "Kaitlyn Chang",
+            "discord_username": "alyntik",
+            "eid": "kc47852",
+            "email": "kaitlyn.chang@utexas.edu"
+        }
+    ]
+}
